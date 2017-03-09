@@ -15,19 +15,19 @@
 
 This library is published and maintained by **Chair for VLSI Design, Diagnostics and Architecture** - 
 Faculty of Computer Science, Technische Universität Dresden, Germany 
-**http://vlsi-eda.inf.tu-dresden.de**这个库由
+**http://vlsi-eda.inf.tu-dresden.de**  这个库由德国的德累斯顿工业大学计算机科学学院的**超大规模集成电路设计、诊断和结构设计教授**发布和维护
 ![Technische Universität Dresden](https://github.com/VLSI-EDA/PoC/wiki/images/logo_tud.gif)
 
 Table of Content:
 --------------------------------------------------------------------------------
- 1. [Overview](#1-overview)
- 2. [Quick Start Guide](#2-quick-start-guide)  
-    2.1. [Requirements and Dependencies](#21-requirements-and-dependencies)  
-    2.2. [Download](#22-download)  
-    2.3. [Configuring PoC on a Local System](#23-configuring-poc-on-a-local-system)  
-    2.4. [Integration](#24-integration)  
-    2.5. [Updating](#25-updating)
- 3. [Common Notes](#3-common-notes)
+ 1. [Overview](#1-overview 概况)
+ 2. [Quick Start Guide](#2-quick-start-guide 快速入门)  
+    2.1. [Requirements and Dependencies](#21-requirements-and-dependencies 要求和依赖)  
+    2.2. [Download](#22-download下载)  
+    2.3. [Configuring PoC on a Local System](#23-configuring-poc-on-a-local-system在本地系统上配置PoC)  
+    2.4. [Integration](#24-integration集成)  
+    2.5. [Updating](#25-updating更新)
+ 3. [Common Notes](#3-common-notes注意事项)
  4. [Cite the PoC-Library](#4-cite-the-poc-library)
 
 --------------------------------------------------------------------------------
