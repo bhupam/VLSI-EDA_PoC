@@ -15,8 +15,7 @@
 
 This library is published and maintained by **Chair for VLSI Design, Diagnostics and Architecture** - 
 Faculty of Computer Science, Technische Universität Dresden, Germany 
-**http://vlsi-eda.inf.tu-dresden.de**
-
+**http://vlsi-eda.inf.tu-dresden.de**这个库由
 ![Technische Universität Dresden](https://github.com/VLSI-EDA/PoC/wiki/images/logo_tud.gif)
 
 Table of Content:
